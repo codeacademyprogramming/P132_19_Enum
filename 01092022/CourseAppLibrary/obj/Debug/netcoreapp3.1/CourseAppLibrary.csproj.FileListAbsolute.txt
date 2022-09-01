@@ -1,0 +1,10 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\bin\Debug\netcoreapp3.1\CourseAppLibrary.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\bin\Debug\netcoreapp3.1\CourseAppLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\bin\Debug\netcoreapp3.1\CourseAppLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\obj\Debug\netcoreapp3.1\CourseAppLibrary.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\obj\Debug\netcoreapp3.1\CourseAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\obj\Debug\netcoreapp3.1\CourseAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\obj\Debug\netcoreapp3.1\CourseAppLibrary.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\obj\Debug\netcoreapp3.1\CourseAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\obj\Debug\netcoreapp3.1\CourseAppLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseAppLibrary\obj\Debug\netcoreapp3.1\CourseAppLibrary.pdb

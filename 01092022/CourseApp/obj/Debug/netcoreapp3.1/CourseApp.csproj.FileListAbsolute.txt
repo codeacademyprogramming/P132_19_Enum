@@ -1,0 +1,17 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseAppLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\bin\Debug\netcoreapp3.1\CourseAppLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.csproj.CopyComplete
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\19. 01-09-2022\01092022\CourseApp\obj\Debug\netcoreapp3.1\CourseApp.genruntimeconfig.cache
